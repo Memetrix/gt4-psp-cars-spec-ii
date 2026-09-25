@@ -6,7 +6,7 @@
 
 Ferrari, Lamborghini and Bugatti have their own dealers and tune shops. They're also in Arcade Mode's **By Make** list. This is a patch for **Spec II v1.10 NTSC-U only**.
 
-**[Download the patch](https://github.com/Memetrix/gt4-psp-cars-spec-ii/releases/latest)** (v1.0.1) · **[Install guide](INSTALL.md)** · [Archive mirror of v1.0.0](https://archive.org/details/gran-turismo-psp-cars-gt4-spec-ii-v1.0.0)
+**[Download the patch](https://github.com/Memetrix/gt4-psp-cars-spec-ii/releases/latest)** (v1.0.1) · **[Install guide](INSTALL.md)** · [Archive mirror of v1.0.1](https://archive.org/details/gran-turismo-psp-cars-gt4-spec-ii-v1.0.1)
 
 ## In the game
 
