@@ -1,0 +1,7 @@
+*.iso
+*.ISO
+*.xdelta
+*.7z
+*.zip
+*.bin
+.DS_Store
