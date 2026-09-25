@@ -9,8 +9,11 @@ You need your own clean ISO of **Gran Turismo 4 Spec II v1.10 (NTSC-U)**
 3. Leave checksum validation on and click **Apply patch**. Delta Patcher updates
    the selected copy; your original ISO remains unchanged.
 
-The patched ISO has SHA-256
-`af80e553fe33cade0c2d31d081053c0879918dc580783fe9af96f2ce92869399`.
+The patched ISO (v1.0.1) has SHA-256
+`f371892ef1a99fd58f2f9a2754ba26e1fcb8fa0f29fbcfd90287657881679916`.
+
+**Updating from v1.0.0:** apply v1.0.1 to a fresh copy of the clean ISO. It does not apply to an ISO
+already patched with v1.0.0. Game saves carry over.
 
 If the patch fails, check the MD5 of the original ISO. An ISO from another region, another Spec II version,
 vanilla GT4, the Online Public Beta or a previously modified image is a different input: this patch does not

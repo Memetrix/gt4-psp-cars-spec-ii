@@ -211,7 +211,7 @@
       "cars_file": "0000000000000458",
       "carlist": "chevrolet",
       "dealer": "new",
-      "model": "GT PSP 00220021 with its wheels in the chev0013 container (7 paints)",
+      "model": "GT PSP 00220021 with its wheels in the chev0013 container (7 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.0,
         "rear_inch": 20.0,
@@ -262,7 +262,7 @@
       "cars_file": "0000000000000459",
       "carlist": "chevrolet",
       "dealer": "new",
-      "model": "GT PSP 00220022 with its wheels in the cizt0001 container (1 paints)",
+      "model": "GT PSP 00220022 with its wheels in the cizt0001 container (1 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.0,
         "rear_inch": 20.0,
@@ -313,7 +313,7 @@
       "cars_file": "000000000000045A",
       "carlist": "lamborghini",
       "dealer": "legend",
-      "model": "GT PSP 02280001 with its wheels in the pgni0003 container (4 paints)",
+      "model": "GT PSP 02280001 with its wheels in the pgni0003 container (4 paints), lamps {'front_lamps': 2, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 15.0,
         "rear_inch": 15.0,
@@ -364,7 +364,7 @@
       "cars_file": "000000000000045B",
       "carlist": "lamborghini",
       "dealer": "legend",
-      "model": "GT PSP 02280002 with its wheels in the acra0013 container (6 paints)",
+      "model": "GT PSP 02280002 with its wheels in the acra0013 container (6 paints), lamps {'front_lamps': 2, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 14.0,
         "rear_inch": 14.0,
@@ -415,7 +415,7 @@
       "cars_file": "000000000000045C",
       "carlist": "lamborghini",
       "dealer": "legend",
-      "model": "GT PSP 02280003 with its wheels in the acra0013 container (1 paints)",
+      "model": "GT PSP 02280003 with its wheels in the acra0013 container (1 paints), lamps {'front_lamps': 2, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 14.0,
         "rear_inch": 14.0,
@@ -465,7 +465,7 @@
       "cars_file": "000000000000045D",
       "carlist": "ferrari",
       "dealer": "new",
-      "model": "GT PSP 02250014 with its wheels in the slen0001 container (7 paints)",
+      "model": "GT PSP 02250014 with its wheels in the slen0001 container (7 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.0,
         "rear_inch": 19.0,
@@ -516,7 +516,7 @@
       "cars_file": "000000000000045E",
       "carlist": "ferrari",
       "dealer": "new",
-      "model": "GT PSP 02250015 with its wheels in the slen0001 container (1 paints)",
+      "model": "GT PSP 02250015 with its wheels in the slen0001 container (1 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.0,
         "rear_inch": 19.0,
@@ -569,7 +569,7 @@
       "cars_file": "000000000000045F",
       "carlist": "ferrari",
       "dealer": "new",
-      "model": "GT PSP 02250005 with its wheels in the org_0001 container (2 paints)",
+      "model": "GT PSP 02250005 with its wheels in the org_0001 container (2 paints), the donor's lamps",
       "wheels": {
         "front_inch": 13.0,
         "rear_inch": 13.0,
@@ -622,7 +622,7 @@
       "cars_file": "0000000000000460",
       "carlist": "mazda",
       "dealer": "new",
-      "model": "GT PSP 00010099 with its wheels in the list0001 container (12 paints), fitted: {'menu': ['dropped 448 reflection vertices under 6% strength -> 595661 bytes', \"texture ('hq', 17) 256x128 -> 128x128 -> 587469 bytes\", \"texture ('hq', 17) 128x128 -> 64x64 -> 581325 bytes\", \"texture ('hq', 10) 256x128 -> 128x128 -> 573133 bytes\"]}",
+      "model": "GT PSP 00010099 with its wheels in the list0001 container (12 paints), fitted: {'menu': ['dropped 448 reflection vertices under 6% strength -> 595661 bytes', \"texture ('hq', 17) 256x128 -> 128x128 -> 587469 bytes\", \"texture ('hq', 17) 128x128 -> 64x64 -> 581325 bytes\", \"texture ('hq', 10) 256x128 -> 128x128 -> 573133 bytes\"]}, lamps {'front_lamps': 2, 'unk_lights': 2, 'tail_lamps': 3}",
       "wheels": {
         "front_inch": 18.0,
         "rear_inch": 18.0,
@@ -672,7 +672,7 @@
       "cars_file": "0000000000000461",
       "carlist": "citroen",
       "dealer": "new",
-      "model": "GT PSP 00420011 with its wheels in the jagu0004 container (19 paints)",
+      "model": "GT PSP 00420011 with its wheels in the jagu0004 container (19 paints), lamps {'front_lamps': 4, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 21.0,
         "rear_inch": 21.0,
@@ -722,7 +722,7 @@
       "cars_file": "0000000000000462",
       "carlist": "citroen",
       "dealer": "new",
-      "model": "GT PSP 00420010 with its wheels in the jagu0004 container (1 paints)",
+      "model": "GT PSP 00420010 with its wheels in the jagu0004 container (1 paints), lamps {'front_lamps': 4, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 21.0,
         "rear_inch": 21.0,
@@ -772,7 +772,7 @@
       "cars_file": "0000000000000463",
       "carlist": "nissan",
       "dealer": "new",
-      "model": "GT PSP 00030139 with its wheels in the asmt0004 container (5 paints)",
+      "model": "GT PSP 00030139 with its wheels in the asmt0004 container (5 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 20.0,
         "rear_inch": 20.0,
@@ -822,7 +822,7 @@
       "cars_file": "0000000000000464",
       "carlist": "nissan",
       "dealer": "new",
-      "model": "GT PSP 00030140 with its wheels in the asmt0004 container (1 paints)",
+      "model": "GT PSP 00030140 with its wheels in the asmt0004 container (1 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 20.0,
         "rear_inch": 20.0,
@@ -1017,7 +1017,7 @@
       "cars_file": "0000000000000469",
       "carlist": "pescarolo",
       "dealer": "new",
-      "model": "GT PSP 01690004 with its wheels in the pscl0001 container (2 paints)",
+      "model": "GT PSP 01690004 with its wheels in the pscl0001 container (2 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 4}",
       "wheels": {
         "front_inch": 18.0,
         "rear_inch": 18.0,
@@ -1070,7 +1070,7 @@
       "cars_file": "000000000000046A",
       "carlist": "audi",
       "dealer": "new",
-      "model": "GT PSP 00570024 with its wheels in the hond0046 container (9 paints)",
+      "model": "GT PSP 00570024 with its wheels in the hond0046 container (9 paints), lamps {'front_lamps': 2, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 18.0,
         "rear_inch": 18.0,
@@ -1123,7 +1123,7 @@
       "cars_file": "000000000000046B",
       "carlist": "audi",
       "dealer": "new",
-      "model": "GT PSP 00570025 with its wheels in the hond0046 container (1 paints)",
+      "model": "GT PSP 00570025 with its wheels in the hond0046 container (1 paints), lamps {'front_lamps': 2, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 18.0,
         "rear_inch": 18.0,
@@ -1172,7 +1172,7 @@
       "cars_file": "000000000000046C",
       "carlist": "audi",
       "dealer": "new",
-      "model": "GT PSP 00570018 with its wheels in the audi0015 container (1 paints)",
+      "model": "GT PSP 00570018 with its wheels in the audi0015 container (1 paints), the donor's lamps",
       "wheels": {
         "front_inch": 18.0,
         "rear_inch": 18.0,
@@ -1291,7 +1291,7 @@
       "cars_file": "000000000000046F",
       "carlist": "mazda",
       "dealer": "legend",
-      "model": "GT PSP 00010026 with its wheels in the acra0008 container (4 paints)",
+      "model": "GT PSP 00010026 with its wheels in the acra0008 container (4 paints), lamps {'front_lamps': 2, 'unk_lights': 2, 'tail_lamps': 2}",
       "wheels": {
         "front_inch": 15.0,
         "rear_inch": 15.0,
@@ -1377,7 +1377,7 @@
       "cars_file": "0000000000000471",
       "carlist": "bugatti",
       "dealer": "new",
-      "model": "GT PSP 02290002 with its wheels in the vw__0008 container (13 paints)",
+      "model": "GT PSP 02290002 with its wheels in the vw__0008 container (13 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.7,
         "rear_inch": 21.3,
@@ -1428,7 +1428,7 @@
       "cars_file": "0000000000000472",
       "carlist": "bugatti",
       "dealer": "new",
-      "model": "GT PSP 02290003 with its wheels in the dodg0005 container (1 paints)",
+      "model": "GT PSP 02290003 with its wheels in the dodg0005 container (1 paints), lamps {'front_lamps': 4, 'unk_lights': 4, 'tail_lamps': 5}",
       "wheels": {
         "front_inch": 19.7,
         "rear_inch": 21.3,
@@ -1482,7 +1482,7 @@
       "model": "model of the GT4 twin _350z_lm_us_02 (niss0011)"
     }
   ],
-  "source": "0c5fbd14c940b67f23ecdf78a1807e298e46c9a6",
+  "source": "ac18ffe8b712a6b3889e5932240810eb6939aa33",
   "toolchain": {
     "python": "3.14.6",
     "python_path": "/opt/homebrew/opt/python@3.14/bin/python3.14",
@@ -1494,9 +1494,9 @@
   "vol_offset": 220383232,
   "vol_size": 3435528192,
   "overlay_files": 531,
-  "iso_sha256": "af80e553fe33cade0c2d31d081053c0879918dc580783fe9af96f2ce92869399",
+  "iso_sha256": "f371892ef1a99fd58f2f9a2754ba26e1fcb8fa0f29fbcfd90287657881679916",
   "iso_size": 3721560064,
-  "xdelta_sha256": "1e765e75cdc5d3c1aa9d18c49d0dde14d8fd3eeb0ce27056a7fdde24481c80d3",
-  "xdelta_size": 30390735,
-  "built": "2026-09-25T04:44:07+0300"
+  "xdelta_sha256": "741372a845e9c0448d617d812521d510b699156ff3fa4810440668852c116ff4",
+  "xdelta_size": 30368378,
+  "built": "2026-09-25T06:52:52+0300"
 }
